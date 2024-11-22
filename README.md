@@ -44,7 +44,7 @@ Este projeto é parte do meu processo de aprendizado em **desenvolvimento web**,
 ## 📧 Contato
 
 Desenvolvido por **Dielson Antonio da Silva**.  
-- E-mail: dielson.silva@aluno.recode.ob  
+- E-mail: dielson.silva@aluno.recode.org.br  
 - GitHub: [https://github.com/odisilva](https://github.com/odisilva)
 
 ---
